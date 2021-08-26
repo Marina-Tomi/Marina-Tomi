@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href=“SEU LINK DO WHASTAPP" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-11991455014?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<img src="https://api.whatsapp.com/send?phone=5511991455014 style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 
 <a href="mailto:SEU E-MAIL" target="_blank">
